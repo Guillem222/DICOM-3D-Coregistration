@@ -100,7 +100,7 @@ Additionally, you can find visual guidance to understand the project in the `pre
 
 In the following GIF, you can see the results of the  rearranged slices constructing the 3D body, with the liver highlighted in blue and the tumor in green, fused with alpha fusion.
 
-<img src="https://github.com/RosebudCoder/Midway-Submission/blob/main/images/liver_mass_anim.gif" alt="3D animation with Liver and Tumor emphazied" style="width: 75%;">
+<img src="https://github.com/Guillem222/DICOM-3D-Coregistration/blob/main/images/liver_mass_anim.gif" alt="3D animation with Liver and Tumor emphazied" style="width: 75%;">
 
 
 ### Coregistration of the Patient's brain and reference phantom brain.
@@ -119,7 +119,7 @@ In the next figure, you can see the thalamus region on the patient's brain input
 
 In the following GIF, you can see the results of the  rearranged slices constructing the 3D patient's brain, with the thalamus region depicted in orange.
 
-<img src="https://github.com/RosebudCoder/Midway-Submission/blob/main/images/thalamus_pat_brain_anim.gif" alt="3D animation with Thalamus region emphasized on the patient's input space." style="width: 75%;">
+<img src="https://github.com/Guillem222/DICOM-3D-Coregistration/blob/main/images/thalamus_pat_brain_anim.gif" alt="3D animation with Thalamus region emphasized on the patient's input space." style="width: 75%;">
 
 ## Notes
 
